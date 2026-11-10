@@ -1,0 +1,9 @@
+gymnasium>=0.29
+numpy
+reportlab
+# Optional, only for the live microphone demo (src/live_voice.py):
+# sounddevice
+# faster-whisper
+# Optional, only for the BERT sentiment backend (src/feedback.py):
+# transformers
+# torch

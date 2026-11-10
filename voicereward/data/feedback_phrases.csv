@@ -1,0 +1,21 @@
+phrase,label,reward
+good,positive,1.0
+good job,positive,1.0
+great,positive,1.0
+nice,positive,1.0
+yes,positive,1.0
+perfect,positive,1.0
+well done,positive,1.0
+that's right,positive,1.0
+excellent,positive,1.0
+keep going,positive,1.0
+bad,negative,-1.0
+no,negative,-1.0
+wrong,negative,-1.0
+no no,negative,-1.0
+stop,negative,-1.0
+terrible,negative,-1.0
+oops,negative,-1.0
+that's wrong,negative,-1.0
+not like that,negative,-1.0
+"no, other way",negative,-1.0
